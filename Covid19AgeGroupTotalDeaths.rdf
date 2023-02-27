@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://covide-19-deaths.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row11167">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11167</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">989</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row14549">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14549</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1571</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row872">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">872</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row108695">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108695</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12361</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2927">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2927</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row42871">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42871</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5157</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row134598">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">134598</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16427</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row30908">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0-05 Months</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30908</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">174</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row94242">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94242</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10678</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row9416">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9416</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">733</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row577">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row32651">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32651</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3867</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row16285">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16285</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1839</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row9940">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9940</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">792</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row27840">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27840</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3107</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1394">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1394</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row88737">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">88737</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10098</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row47992">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47992</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5634</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row17685">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17685</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">770</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1278">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1278</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row776">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">07 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">776</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1693">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1693</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row67829">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67829</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7816</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row10291">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10291</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row82096">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82096</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9452</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2531">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01 Year</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2531</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row55809">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55809</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6236</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1815445">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">85 Years and over</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1815445</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">166798</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row43396">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43396</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4764</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row25900">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25900</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2692</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row7417">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7417</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">116</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row100648">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100648</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11309</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row672">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">672</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row19317">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19317</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1157</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row138899">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">79 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138899</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16835</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row13543">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13543</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">434</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row38811">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38811</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4417</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row16859">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16859</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row19816">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19816</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1195</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row4315">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4315</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">212</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row11891">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11891</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">361</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row27234">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27234</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3042</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1180784">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">85 Years and over</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1180784</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131470</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row108824">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108824</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11669</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row129619">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129619</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15905</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row25192">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25192</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2336</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row3630">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3630</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1065">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1065</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row19126">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19126</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1029</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row126174">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">126174</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15222</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row34794">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34794</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3915</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row124997">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124997</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12647</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row15280">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15280</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1636</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row129924">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129924</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13263</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row31214">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31214</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3543</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row110139">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">110139</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11641</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row85486">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">85486</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9851</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row29807">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29807</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3385</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row116062">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">116062</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12479</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row10537">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10537</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">834</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row45678">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45678</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5565</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row10864">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10864</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">236</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row36150">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36150</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4245</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1185">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1185</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row71137">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71137</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8281</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row745">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">08 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">745</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row665">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row21487">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21487</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2503</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row131056">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131056</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16150</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row129413">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129413</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15231</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row69745">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69745</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7905</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1005">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1005</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row26626">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26626</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2851</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row4032">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4032</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row8685">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8685</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">155</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row808">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">808</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row12543">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12543</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1201</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row728">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">728</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row113589">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">113589</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13163</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row8801">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8801</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row767">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">767</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2119">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2119</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row23112">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23112</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1725</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row108856">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">73 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108856</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11974</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row4825">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4825</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row133424">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">133424</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13378</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2189">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06-11 Months</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2189</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row137246">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">137246</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13576</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row5455">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5455</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row614">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">08 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">614</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row40180">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40180</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4862</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row63690">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63690</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7280</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1066">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1066</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row28765">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28765</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3208</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row17505">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17505</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1917</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row11896">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11896</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1052</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1532">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1532</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row622">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">622</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row76598">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76598</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8719</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row4185">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4185</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">191</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row25636">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25636</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2851</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row19152">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19152</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2244</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row21271">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21271</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1482</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row134955">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">134955</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16190</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1001">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1001</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2021">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01 Year</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row5101">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5101</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">277</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1002">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1002</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row20502">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20502</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1308</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1770">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1770</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row18820">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18820</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">938</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row52008">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52008</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5798</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row132107">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132107</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15876</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row7367">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7367</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">546</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row24617">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24617</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2199</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row78962">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78962</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8924</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row111311">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">111311</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12935</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row57636">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57636</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6700</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row59844">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59844</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6731</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row63968">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63968</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7533</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row138429">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138429</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17123</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row642">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">07 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row851">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">851</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row135350">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">135350</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16753</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row124558">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">79 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124558</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12791</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row13187">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13187</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1225</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row23867">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23867</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1783</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row6081">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6081</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">355</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row18364">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18364</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">880</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2093">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2093</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row12722">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12722</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">355</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row21730">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21730</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1533</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row15551">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15551</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">616</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row46852">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46852</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5327</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row14569">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14569</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">520</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row9138">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9138</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">170</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row14093">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14093</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1478</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row24425">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24425</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2036</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row9032">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9032</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">682</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row7740">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7740</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">568</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row122298">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122298</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13028</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2660">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2660</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row23961">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23961</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2755</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row13576">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13576</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1398</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row965">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">965</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row119932">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">119932</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14300</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row3275">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3275</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row139166">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">73 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">139166</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17231</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2816">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06-11 Months</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2816</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row104388">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">104388</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11878</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row2914">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2914</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row118455">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">118455</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14018</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row126097">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">126097</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12805</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row3777">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3777</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">195</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row11240">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11240</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">285</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row5643">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5643</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">327</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row76441">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76441</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8457</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row1343">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1343</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row853">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">853</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row115810">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115810</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13363</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row93785">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93785</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10573</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row8268">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8268</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">625</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row131311">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131311</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15771</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row131384">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131384</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15853</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row6863">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6863</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">414</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row25194">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0-05 Months</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25194</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">133</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/p">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row139745">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">139745</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17244</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row82263">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82263</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9390</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row98856">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">98856</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11318</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row52108">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52108</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6118</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row123278">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123278</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14882</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row89733">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">89733</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10004</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row74093">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74093</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8623</ns1:COVID19Deaths>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/RowId">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://covide-19-deaths.org/row111313">
+    <rdf:type rdf:resource="http://covide-19-deaths.org/RowId"/>
+    <ns1:Dataasof rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/22/2023</ns1:Dataasof>
+    <ns1:StartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01/01/2020</ns1:StartDate>
+    <ns1:EndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02/18/2023</ns1:EndDate>
+    <ns1:Sex rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Female</ns1:Sex>
+    <ns1:AgeYears rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74 Years</ns1:AgeYears>
+    <ns1:Totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">111313</ns1:Totaldeaths>
+    <ns1:COVID19Deaths rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12466</ns1:COVID19Deaths>
+  </rdf:Description>
+</rdf:RDF>
